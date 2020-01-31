@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་ལྷན་ཅིག་སྐྱེས་སྦྱོར་གྱི་དངོས་གཞིའི་ཁྲིད་ཡིག་ཟབ་དོན་རྒྱ་མཚོའི་ལམ་ཚང་བླ་ན་མེད་པ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན།
+  sku: LEK-MA-DK-14
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: The Profound Ocean of the Complete Path of Excellence:An Explanation of the
+      Actual Practice Section of Coemergent Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ་ལྷན་ཅིག་སྐྱེས་སྦྱོར་གྱི་དངོས་གཞིའི་ཁྲིད་ཡིག་ཟབ་དོན་རྒྱ་མཚོའི་ལམ་ཚང་བླ་ན་མེད་པ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Mahamudra Series–  Book 14
+    bo: ལེགས་བཤད་གླིང་ཕྱག་རྒྱ་ཆེན་པོ།–  དེབ། ༡༤
+  author:
+    en: Ngawang Kunga Tenzin
+    bo: ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-MA-DK-14
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-MA-DK-14.epub
+  description:
+    en: ''
+    bo: ''
