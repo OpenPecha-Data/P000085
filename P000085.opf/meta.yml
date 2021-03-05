@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000085
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོ་ལྷན་ཅིག་སྐྱེས་སྦྱོར་གྱི་དངོས་གཞིའི་ཁྲིད་ཡིག་ཟབ་དོན་རྒྱ་མཚོའི་ལམ་ཚང་བླ་ན་མེད་པ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ངག་དབང་ཀུན་དགའ་བསྟན་འཛིན།
-  sku: LEK-MA-DK-14
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: LEK-MA-DK-14
 web_metadata:
   title:
     en: The Profound Ocean of the Complete Path of Excellence:An Explanation of the
